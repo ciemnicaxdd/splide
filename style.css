@@ -1,22 +1,16 @@
-.splide__list  {
-    
-    width: 1024px;
-    height: 1280px;
+.splide__list{
     display: flex;
-    justify-content: center;
     align-items: center;
-
+    justify-content: center;
+}
+img{
+    width: 1024px;
+    height: 650px;
 }
 .splide__slide{
     display: flex;
     justify-content: center;
-    align-items: center;
 }
-
-img{
-    width: 1024px;
-}
-
 /* .splide__pagination__page{
     margin-top: 1000px;
 } */
