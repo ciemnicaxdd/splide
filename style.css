@@ -11,6 +11,12 @@ img{
     display: flex;
     justify-content: center;
 }
+.splide{
+   width: 1024px;
+   display: flex;
+   justify-content: center;
+   margin-left: 400px;
+}
 /* .splide__pagination__page{
     margin-top: 1000px;
 } */
